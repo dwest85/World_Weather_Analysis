@@ -133,3 +133,7 @@ config.py
 # additional files
 API_practice.ipynb
 random_numbers.ipynb
+weather_data
+Google_Nearby_Search.ipynb
+VacationPy.ipynb
+WeatherPy.ipynb
